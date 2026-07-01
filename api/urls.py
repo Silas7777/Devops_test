@@ -5,4 +5,8 @@ app_name = "api"
 
 urlpatterns = [
     re_path(r'books/$', book_view, name='books'),
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> refs/remotes/origin/main
